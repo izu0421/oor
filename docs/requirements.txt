@@ -1,4 +1,4 @@
 anndata
 scanpy
 scvi-tools
-sklearn
+scikit-learn
